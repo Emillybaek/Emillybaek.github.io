@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Construction Automation and Information Technologies, Aarhus University, 2020-2024
+* M.S. in Civil and Architectural Engineering, Aarhus University, 2019-2022
+* Semester abroad in Master of Construction Management, The University of Melbourne - 2020-2020
+* B.Eng. in Civil Engineering, Aarhus University, 2015-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - : Teaching Assistant
+  * Aarhus University
+  * Teacher of the course “Digital Construction”
+  * Co-examiner of the course “Advanced Technologies in Construction”
+  * Reviewer for peer-reviewed journals and conferences (e.g. Automation in Construction)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2017 - 2020: Student Assistant
+  * Exigo
+  * Specialist in databased risk management
+  * Created 3D-model based cost control system
+  * Managed and consulted several large hospital projects (e.g. New Aalborg University Hospital 4.1 billion DKK)
+  * Collaborated in designing automated consistency and collision control
+
+Extracurricular activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Part of the educations committee for Civil and Architectural Engineering (2019 - 2021)
+* Student teacher within the course Managing Precast Construction (2017 - 2017)
+* Part of “Top 50 Future Talents” picked by Presidents Institute
+* Part of the Global Exchange Accelerator Programme in Melbourne
+
 
 Publications
 ======
