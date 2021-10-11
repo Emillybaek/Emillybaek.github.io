@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Emil Lybaek Jacobsens home on the web.
+I am a PhD Student at Aarhus University, at the department of Civil and Architectural Engineering. My Supervisor is Prof. Jochen Teizer. I am also affiliated with the Design++ initiative at ETHZ.
+
+I am interested in interdisciplinary research between Civil Engineering and Machine Perception. My area of focus is on automated semantic and operational understanding of buildings throughout their life cycle using visual data.
+
+I completed my PhD at Stanford University on August 2020, Civil and Environmental Engineering (CEE) Department, Sustainable Design and Construction (SDC) Program, with a PhD minor at the Computer Science Department. I conducted research under the supervision of Martin Fischer (CEE, Center for Integrated Facility Engineering - CIFE) and Silvio Savarese (Computer Science Department, Stanford Vision and Learning Lab - SVL). Prior to my PhD, I received an MSc in Computer Science (Ionian University-2013), an MEng in Architecture and Digital Design (University of Tokyo-2011), and a Diploma in Architectural Engineering (National Technical University of Athens-2009). I have also worked as an architect and consultant for both the private and public sector.
 
 
 A data-driven personal website
