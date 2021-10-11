@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD Student"
+title                    : "Emil Lybaek Jacobsen"
 title_separator          : "-"
 name                     : &name "Emil Lybaek Jacobsen"
 description              : &description "PhD Student @ Aarhus University"
