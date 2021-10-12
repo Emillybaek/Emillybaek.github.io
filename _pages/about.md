@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at Aarhus University, at the department of Civil and Architectural Engineering. My Supervisor is Prof. Jochen Teizer. I am also affiliated with the Design++ initiative at ETHZ.
+I am a PhD Student at Aarhus University, at the department of Civil and Architectural Engineering. I am working with [Prof. Jochen Teizer](https://pure.au.dk/portal/en/persons/jochen-teizer(27a5770e-e88c-4af1-aba5-65a69a740b6e).html) in the research group [Construction Automation and Information Technologies](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies).
 
 I am interested in interdisciplinary research between Civil Engineering and Machine Perception. My area of focus is on automated semantic and operational understanding of buildings throughout their life cycle using visual data.
 
