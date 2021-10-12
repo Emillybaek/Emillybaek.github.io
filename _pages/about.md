@@ -10,9 +10,10 @@ redirect_from:
 
 I am a PhD Student at Aarhus University, at the department of Civil and Architectural Engineering. I am working with [Prof. Jochen Teizer](https://pure.au.dk/portal/en/persons/jochen-teizer(27a5770e-e88c-4af1-aba5-65a69a740b6e).html) in the research group [Construction Automation and Information Technologies](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies).
 
-I am interested in interdisciplinary research between Civil Engineering and Machine Perception. My area of focus is on automated semantic and operational understanding of buildings throughout their life cycle using visual data.
+I am interested in the interdisciplinary field of Civil Engineering and Computer Science. My PhD is focused on multi-variate time series classification and forecasting to enable productivity estimations on construction sites.
+I have a MSc in Civil and Architectural Engineering (Aarhus University 2019-2022) as well as a BEng in Civil Engineering (Aarhus University 2015-2019). Alongside my education I have been working 3 years at [Exigo](https://exigoconsult.com/), specializing in Digital Construction.
 
-I completed my PhD at Stanford University on August 2020, Civil and Environmental Engineering (CEE) Department, Sustainable Design and Construction (SDC) Program, with a PhD minor at the Computer Science Department. I conducted research under the supervision of Martin Fischer (CEE, Center for Integrated Facility Engineering - CIFE) and Silvio Savarese (Computer Science Department, Stanford Vision and Learning Lab - SVL). Prior to my PhD, I received an MSc in Computer Science (Ionian University-2013), an MEng in Architecture and Digital Design (University of Tokyo-2011), and a Diploma in Architectural Engineering (National Technical University of Athens-2009). I have also worked as an architect and consultant for both the private and public sector.
+
 
 
 A data-driven personal website
