@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-\
-  
+
 Education
 ======
 * Ph.D in Construction Automation and Information Technologies, Aarhus University, 2020-2024
