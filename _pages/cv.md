@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Construction Automation and Information Technologies, Aarhus University, 2020-2024
-* M.S. in Civil and Architectural Engineering, Aarhus University, 2019-2022
-* Semester abroad in Master of Construction Management, The University of Melbourne - 2020-2020
-* B.Eng. in Civil Engineering, Aarhus University, 2015-2019
+* Ph.D in Construction Automation and Information Technologies, Aarhus University, 2020 - 2024
+* M.S. in Civil and Architectural Engineering, Aarhus University, 2019 - 2022
+* Semester abroad in Master of Construction Management, The University of Melbourne - 2020 - 2020
+* B.Eng. in Civil Engineering, Aarhus University, 2015 - 2019
 
 Work experience
 ======
@@ -36,21 +36,9 @@ Extracurricular activities
 * Part of “Top 50 Future Talents” picked by Presidents Institute
 * Part of the Global Exchange Accelerator Programme in Melbourne
 
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 
