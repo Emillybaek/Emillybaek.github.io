@@ -18,14 +18,12 @@ Education
 
 Work experience
 ======
-* 2020 - : Teaching Assistant
-  * Aarhus University
+* 2020 - : Teaching Assistant @ Aarhus University
   * Teacher of the course “Digital Construction”
   * Co-examiner of the course “Advanced Technologies in Construction”
   * Reviewer for peer-reviewed journals and conferences (e.g. Automation in Construction)
 
-* 2017 - 2020: Student Assistant
-  * Exigo
+* 2017 - 2020: Student Assistant @ Exigo
   * Specialist in databased risk management
   * Created 3D-model based cost control system
   * Managed and consulted several large hospital projects (e.g. New Aalborg University Hospital 4.1 billion DKK)
