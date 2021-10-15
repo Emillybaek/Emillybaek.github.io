@@ -21,4 +21,3 @@ locations in general. It could potentially be incorporated into live constructio
 
 [Download paper here](https://www.depositonce.tu-berlin.de/handle/11303/13226)
 
-Recommended citation: Jacobsen, E. L. & Teizer, J. 2021, "Real-time LiDAR for Monitoring Construction Worker Presence Near Hazards and in Work Areas in a Virtual Reality Environment." In:, <i>EG-ICE 2021 Workshop on Intelligent Computing in Engineering: Proceedings. ed. /Jimmy Abualdenien; André Borrmann; Lucian Constantin Ungureanu; Timo Hartmann.</i> Berlin : Universitätsverlag der TU Berlin, 2021. p. 592-602.
