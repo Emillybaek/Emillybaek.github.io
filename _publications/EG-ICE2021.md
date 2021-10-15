@@ -9,7 +9,7 @@ paperurl: 'https://www.depositonce.tu-berlin.de/handle/11303/13226'
 citation: 'Jacobsen, E. L. & Teizer, J. 2021, &quot;Real-time LiDAR for Monitoring Construction Worker Presence Near Hazards and in Work Areas in a Virtual Reality Environment.&quot; In:, <i>EG-ICE 2021 Workshop on Intelligent Computing in Engineering: Proceedings. ed. /Jimmy Abualdenien; André Borrmann; Lucian Constantin Ungureanu; Timo Hartmann.</i> Berlin : Universitätsverlag der TU Berlin, 2021. pp. 592-602.'
 ---
 
-Abstract
+#### Abstract
 In this paper, a novel sensor system is used to detect worker presence near hazards and in
 key locations tied to productivity through geo-fencing. The systems’ main component is real-time
 monitoring via LiDAR, which allows for more precise detection of the workers’ position relative to
