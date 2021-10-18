@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Virtual Reality for Serious Games used in Construction education"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
