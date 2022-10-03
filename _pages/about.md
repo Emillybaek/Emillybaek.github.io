@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at Aarhus University, at the department of Civil and Architectural Engineering. I am working with [Prof. Jochen Teizer](https://pure.au.dk/portal/en/persons/jochen-teizer(27a5770e-e88c-4af1-aba5-65a69a740b6e).html) in the research group [Construction Automation and Information Technologies](https://cae.au.dk/en/research/key-areas-in-research-and-development/design-and-construction/construction-automation-and-information-technologies).
+I am a third year PhD Student in Civil and Architectural Engineering at Aarhus University. I work on easier ways to do construction labor productivity monitoring in the construction phase.
 
-I am interested in the interdisciplinary field of Civil Engineering and Computer Science. My PhD is focused on multivariate time series classification and forecasting to enable productivity estimations on construction sites.
-I have a MSc in Civil and Architectural Engineering (Aarhus University 2019-2022) as well as a BEng in Civil Engineering (Aarhus University 2015-2019). Alongside my education I have been working 3 years at [Exigo](https://exigoconsult.com/), specializing in Digital Construction.
+More specifically, my research focuses on multivariate timeseries classification and prediction to automate the monitoring of labor through kinematic data. I have experience in classification through deep learning, both for computer vision and tabular data, as well as timeseries forecasting using statistical methods. Furthermore, I have been part of several research projects within the field of VR for construction training. This both concerned safety but also LEAN principles. Besides my PhD project, I teach parts of two courses:  Advanced Technologies in Construction and Digital Construction, where my focus is on BIM and wearable sensors.
+
+Before starting my PhD I did a MSc in Civil and Architectural Engineering (Aarhus University 2019-2022) as well as a BEng in Civil Engineering (Aarhus University 2015-2019). Alongside my education I have been working 3 years at [Exigo](https://exigoconsult.com/), specializing in Digital Construction.
