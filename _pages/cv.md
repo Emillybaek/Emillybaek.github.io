@@ -36,6 +36,7 @@ Extracurricular activities
 * Student teacher within the course Managing Precast Construction (2017 - 2017)
 * Part of “Top 50 Future Talents” picked by Presidents Institute
 * Part of the Global Exchange Accelerator Programme in Melbourne
+* Picked as Outstanding reviewer for ISARC 2021 
 
 Publications
 ======
