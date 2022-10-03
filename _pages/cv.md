@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Construction Automation and Information Technologies, Aarhus University, 2020 - 2024
+* Visiting researcher, University of Cambridge, 2022 - 2022
 * M.S. in Civil and Architectural Engineering, Aarhus University, 2019 - 2022
 * Semester abroad in Master of Construction Management, The University of Melbourne - 2020 - 2020
 * B.Eng. in Civil Engineering, Aarhus University, 2015 - 2019
@@ -21,7 +22,7 @@ Work experience
 * 2020 - : Teaching Assistant @ Aarhus University
   * Teacher of the course “Digital Construction”
   * Co-examiner of the course “Advanced Technologies in Construction”
-  * Reviewer for peer-reviewed journals and conferences (e.g. Automation in Construction)
+  * Reviewer for peer-reviewed journals and conferences (e.g. Automation in Construction, Advanced Engineering Informatics, EG-ICE, ISARC, EC³)
 
 * 2017 - 2020: Student Assistant @ Exigo
   * Specialist in databased risk management
