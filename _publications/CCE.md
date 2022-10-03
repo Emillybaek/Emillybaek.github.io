@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning in Construction: Review of Applications and Potential Avenues"
 collection: publications
-permalink: /publication/ConIno
+permalink: /publication/CCE
 excerpt: 'The paper is a review focusing on deep learning for construction research. It introduces numerous fields of research and suggests new avenues to focus on'
 date: 2021-12-23
 venue: 'Journal of Computing in Civil Engineering'
