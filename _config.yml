@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Emil Lybaek Jacobsen"
-  avatar           : "Pure photo.jpg"
+  avatar           : "Emil Lybæk Jacobsen, au547210_BlackWhite.jpg"
   bio              : "PhD Student @ Aarhus University"
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "elj@cae.au.dk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Emil_Lybaek_Jacobsen"
   uri              : "https://pure.au.dk/portal/en/persons/emil-lybaek-jacobsen(12dbb2b6-887c-43b0-b18c-3b67c4dce932).html"
   bitbucket        :
   codepen          :
